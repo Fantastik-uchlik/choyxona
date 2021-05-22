@@ -1,0 +1,2 @@
+class MahsulotTurController():
+    pass
